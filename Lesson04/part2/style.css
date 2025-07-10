@@ -1,0 +1,44 @@
+/* selectors */
+/* p, div, h1,h2,select,form, -=> tagname */
+/* class (item,parag,murad,sevil,rhjgrj,   (.) */
+/* id - # */
+/* #parag {
+  color: blueviolet;
+  background-color: red;
+} */
+
+/* .item {
+  color: yellow;
+  background-color: black;
+} */
+/* 
+p {
+  color: red;
+}
+ */
+
+
+/* id>class>tagname */
+
+/* colors */
+/* topography properties */
+/* box model*/
+/* flex & grid */
+/* position */
+
+p {
+  /* font-weight: 700; */
+  /* font-style: italic; */
+  font-size: 1.1em;
+  /* text-decoration: line-through; */
+  font-family: "Open Sans", sans-serif;
+  /* letter-spacing: 10px; */
+  /* word-spacing: 10px; */
+  /* line-height: 45px; */
+  /* text-shadow: 10px 10px 10px red; */
+  /* box-shadow: 10px 10px 10px red; */
+}
+
+
+/* font famly - times new roman */
+/* font-weight - 400 -900 */
